@@ -1,4 +1,4 @@
 # DISI21_Pilot
 Data analysis for DISI 2021 pilot project
 
-Run PilotAnalyses_F and PilotAnalyses_S before running PilotGraphs.
+Run PilotAnalysis_F and PilotAnalysis_S before running PilotGraphs.
